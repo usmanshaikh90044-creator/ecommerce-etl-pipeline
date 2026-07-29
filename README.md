@@ -10,15 +10,11 @@ The pipeline ingests raw e-commerce data, performs data cleaning and validation,
 
 ## Dataset
 
-Dataset: Brazilian E-commerce Public Dataset by Olist
 
-The project uses the following datasets:
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**.
 
-- Customers
-- Orders
-- Order Items
-- Payments
-- Products
+You can download the dataset from Kaggle:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
